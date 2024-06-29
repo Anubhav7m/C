@@ -3,9 +3,9 @@
 
 int main(int argc, char const *argv[])
 {
-    int a,b,c,d;
+    int a,b,c;
     printf("Enter 5 numbers:\n");
-    scanf("%d", &a,b,c,d,e);
+    scanf("%d", &a,b,c);
     if(a%2 == 0 && b%2==0 && c)
     return 0;
 }
