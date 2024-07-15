@@ -14,6 +14,6 @@ int main(int argc, char const *argv[])
             sum +=i;
         }
     }
-    printf("Sum of odd numbers between [%d,%d] is = %d", start, end, sum);
+    printf("Sum of even numbers between [%d,%d] is = %d", start, end, sum);
     return 0;
 }
